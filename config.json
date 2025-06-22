@@ -12,24 +12,7 @@
             "timeout": 180,
             "disabled": 1
         },
-        {
-            "name": "NA-LUCKPOOL",
-            "url": "stratum+tcp://na.luckpool.net:3960",
-            "timeout": 180,
-            "disabled": 1
-        },
-        {
-            "name": "AIH-LOW",
-            "url": "stratum+tcp://verus.aninterestinghole.xyz:9998",
-            "timeout": 180,
-            "disabled": 1
-        },
-        {
-            "name": "WW-ZERGPOOL",
-            "url": "stratum+tcp://verushash.mine.zergpool.com:3300",
-            "timeout": 180,
-            "disabled": 1
-        },
+        
         {
             "name": "VPOOL-LOW",
             "url": "stratum+tcp://pool.verus.io:9998",
@@ -43,7 +26,7 @@
             "disabled": 1
         }],
 
-    "user": "RLkfPrMNpqJssYiq8KWLJ4gbyHLLDfLdyR.SamA03s-17",
+    "user": "RLkfPrMNpqJssYiq8KWLJ4gbyHLLDfLdyR.SamA03s-13",
     "pass": "",
     "algo": "verus",
     "threads": 8,
