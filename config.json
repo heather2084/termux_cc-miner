@@ -18,15 +18,9 @@
             "url": "stratum+tcp://pool.verus.io:9998",
             "timeout": 180,
             "disabled": 1
-        },
-        {
-            "name": "US-CLOUDIKO",
-            "url": "stratum+tcp://us.cloudiko.io:9999",
-            "timeout": 180,
-            "disabled": 1
         }],
 
-    "user": "RLkfPrMNpqJssYiq8KWLJ4gbyHLLDfLdyR.SamA03s-13",
+    "user": "RLkfPrMNpqJssYiq8KWLJ4gbyHLLDfLdyR.SamA03s-16",
     "pass": "",
     "algo": "verus",
     "threads": 8,
