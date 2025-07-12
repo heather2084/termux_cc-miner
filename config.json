@@ -11,16 +11,11 @@
             "url": "stratum+tcp://usse.vipor.net:5040",
             "timeout": 180,
             "disabled": 1
-        },
+        }},
         
-        {
-            "name": "VPOOL-LOW",
-            "url": "stratum+tcp://pool.verus.io:9998",
-            "timeout": 180,
-            "disabled": 1
-        }],
+       
 
-    "user": "RLkfPrMNpqJssYiq8KWLJ4gbyHLLDfLdyR.HMDVibe-02 Miner",
+    "user": "RLkfPrMNpqJssYiq8KWLJ4gbyHLLDfLdyR.HMDVibe-05 Miner",
     "pass": "",
     "algo": "verus",
     "threads": 8,
