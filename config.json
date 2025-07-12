@@ -11,7 +11,7 @@
             "url": "stratum+tcp://usse.vipor.net:5040",
             "timeout": 180,
             "disabled": 1
-        }},
+        }],
         
        
 
